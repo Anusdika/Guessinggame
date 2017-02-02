@@ -1,0 +1,9 @@
+				Score Details
+How many time played		10
+Bet amount			1000
+Loose amount			650
+Corrent winning amount		350
+Last time winning amount		0
+Total score			350
+ 
+					Thank you
